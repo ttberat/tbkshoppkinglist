@@ -1,0 +1,50 @@
+
+.loginPage{
+  text-align: center;
+  margin: auto;
+  position: relative;
+}
+
+.loginBox{
+  text-align: center;
+  border-radius: 5px;
+  background: rgb(255, 255, 255);
+  margin: auto;
+  padding: 20px; 
+  width: 300px;
+  height: 350px;
+  box-shadow: 10px 10px 25px grey;
+  position: relative;
+}
+
+.boxInside{
+  text-align: left;
+  position: relative; 
+  padding: fit-content;
+  margin: 10px;
+}
+
+.loginForm{
+  margin: auto;
+  padding: fit-content;
+}
+
+.buttonLogin{
+ margin: 20px;
+ position: relative;
+
+}
+
+.divmargin{
+  margin-bottom: 20px;
+}
+
+
+.navcolor{
+  color: white;
+}
+
+.navbrand{
+  color: yellow;
+}
+
