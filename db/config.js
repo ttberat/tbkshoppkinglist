@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-mongoose.connect("mongodb+srv://tokay:Supradyn1-@cluster0-s1arx.mongodb.net/ShoppingList?retryWrites=true&w=majority",{
+mongoose.connect("",{
     useNewUrlParser: true,
     useCreateIndex: true,
     useFindAndModify: false,
